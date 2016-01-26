@@ -1,7 +1,7 @@
 import sys
 
 from user_create import new_user
-from bank_func import user_login
+from bank_func import rec_user
  
 responded = False
 while not responded:
