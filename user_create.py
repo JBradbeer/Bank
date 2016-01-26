@@ -17,4 +17,3 @@ def new_user():
         db.close()
     except ():
         print ("ISSUE finding the database")
-
