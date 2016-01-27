@@ -1,6 +1,6 @@
 from sys import argv
 
-script, atmdatabase = sys.argv
+script, atmdatabase = sys.argv  #this line crashes code
 
 def new_user():
     name = raw_input("please enter your name")
